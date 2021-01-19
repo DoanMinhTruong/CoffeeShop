@@ -1,8 +1,8 @@
 # CoffeeShop
-unfinished
-#Language :
+# unfinished
+# Language :
 + PHP&MySQL, Javascript(Ajax/Jquery), HTML&CSS (Bootstrap).
-#Task:
+# Task:
 + Login/Logout.
 + Menu : Add item, Delete Item.
 
