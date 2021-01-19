@@ -1,0 +1,10 @@
+<?php
+	require("config.php");
+	if(!isset($_SESSION['user'])){
+		include("login.php");
+		die;
+	}
+	include("includes/header.php");
+	include("content.php");
+	include("includes/footer.php");
+?>

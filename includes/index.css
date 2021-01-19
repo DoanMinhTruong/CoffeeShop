@@ -1,0 +1,35 @@
+body{
+	font-family: "UTM Avo";
+}
+.main{
+	height: 100vh;
+}
+.main-menu, .main-content{
+	height: 100%;
+}
+.container-login, .container-signup{
+	margin: 100px 500px;
+}
+.login-form , .signup-form{
+	padding: 35px;
+}
+.form-label-group{
+	padding: 10px 0;
+}
+
+.card-content:hover{
+	cursor: pointer;
+}
+#menu-items{
+  max-height: 600px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+.menu-item-card img{
+  width: 200px;
+  height: 200px; 
+}
+.menu-item-card{
+  margin-bottom:10px;
+  padding:10px;
+}
